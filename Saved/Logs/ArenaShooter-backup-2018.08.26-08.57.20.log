@@ -1,0 +1,1581 @@
+﻿Log file open, 08/26/18 08:38:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ArenaShooter
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1999737317) SRandInit(1999737317).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.177783
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.981s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am BazMain (192.168.0.156:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Unreal Engine/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.26-07.38.33:937][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.26-07.38.33:937][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.26-07.38.33:946][  0]LogInit: Computer: BAZMAIN
+[2018.08.26-07.38.33:946][  0]LogInit: User: BazK
+[2018.08.26-07.38.33:946][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.26-07.38.33:946][  0]LogInit: High frequency timer resolution =2.648437 MHz
+[2018.08.26-07.38.33:947][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2018.08.26-07.38.33:947][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.26-07.38.33:947][  0]LogMemory: Process Physical Memory: 276.54 MB used, 276.54 MB peak
+[2018.08.26-07.38.33:947][  0]LogMemory: Process Virtual Memory: 266.02 MB used, 266.02 MB peak
+[2018.08.26-07.38.33:947][  0]LogMemory: Physical Memory: 5696.00 MB used,  10502.73 MB free, 16198.73 MB total
+[2018.08.26-07.38.33:947][  0]LogMemory: Virtual Memory: 4767.08 MB used,  10502.73 MB free, 134217728.00 MB total
+[2018.08.26-07.38.33:975][  0]LogInit: Using OS detected language (en-US).
+[2018.08.26-07.38.33:975][  0]LogInit: Using OS detected locale (en-GB).
+[2018.08.26-07.38.33:978][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.26-07.38.34:422][  0]LogStreaming: Display: Took  0.446s to EndInitTextLocalization.
+[2018.08.26-07.38.34:422][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.26-07.38.34:450][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.26-07.38.34:450][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.26-07.38.34:639][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.26-07.38.34:679][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2018.08.26-07.38.34:679][  0]LogD3D11RHI:       2016/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.26-07.38.34:680][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.26-07.38.34:681][  0]LogD3D11RHI:       0/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.26-07.38.34:681][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.26-07.38.34:686][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.26-07.38.34:686][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.26-07.38.34:686][  0]LogWindows: EnumDisplayDevices:
+[2018.08.26-07.38.34:686][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2018.08.26-07.38.34:686][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.08.26-07.38.34:686][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.08.26-07.38.34:686][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.08.26-07.38.34:686][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.26-07.38.34:686][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2018.08.26-07.38.34:686][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.26-07.38.34:686][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.26-07.38.34:686][  0]LogRHI: Texture pool is 1411 MB (70% of 2016 MB)
+[2018.08.26-07.38.34:709][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.08.26-07.38.34:709][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.26-07.38.34:709][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.26-07.38.34:725][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.08.26-07.38.34:726][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Intermediate/Shaders/WorkingDirectory/4992/).
+[2018.08.26-07.38.34:726][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Baz_K/AppData/Local/Temp/UnrealShaderWorkingDir/ED1C651F48F4C479821985B974E793AA/'.
+[2018.08.26-07.38.34:950][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.26-07.38.34:964][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.26-07.38.34:977][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.26-07.38.34:991][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.26-07.38.35:005][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.26-07.38.35:019][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.26-07.38.35:032][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.26-07.38.35:046][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.26-07.38.35:052][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.26-07.38.35:065][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.26-07.38.35:076][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.26-07.38.35:089][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.26-07.38.35:101][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.08.26-07.38.35:114][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.26-07.38.35:126][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.26-07.38.35:151][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.26-07.38.35:151][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.26-07.38.35:164][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-07.38.35:165][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.26-07.38.35:203][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.26-07.38.35:215][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.26-07.38.35:227][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.26-07.38.35:240][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.26-07.38.35:252][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.26-07.38.35:264][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.26-07.38.35:264][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.26-07.38.35:372][  0]LogXGEController: Cleaning working directory: C:/Users/Baz_K/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.08.26-07.38.35:373][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.26-07.38.35:373][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.26-07.38.35:373][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.26-07.38.36:033][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.26-07.38.36:096][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/Baz_K/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.26-07.38.36:096][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Baz_K/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.08.26-07.38.36:097][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.26-07.38.36:097][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.26-07.38.36:097][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.26-07.38.36:097][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.26-07.38.36:113][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.26-07.38.36:126][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Baz_K/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.26-07.38.36:126][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.26-07.38.36:126][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.26-07.38.36:138][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.26-07.38.36:138][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.26-07.38.36:139][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.26-07.38.36:139][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.26-07.38.36:258][  0]LogAssetRegistry: FAssetRegistry took 0.0259 seconds to start up
+[2018.08.26-07.38.36:559][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.26-07.38.36:703][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.26-07.38.36:706][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.26-07.38.36:706][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.26-07.38.36:706][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.26-07.38.36:706][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.26-07.38.36:706][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.26-07.38.36:742][  0]LogNetVersion: ArenaShooter , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2225152811)
+[2018.08.26-07.38.37:178][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.069917 seconds
+[2018.08.26-07.38.37:184][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.08.26-07.38.37:184][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.08.26-07.38.37:184][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.26-07.38.38:853][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.26-07.38.38:882][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.26-07.38.39:222][  0]SourceControl: Source control is disabled
+[2018.08.26-07.38.39:222][  0]SourceControl: Source control is disabled
+[2018.08.26-07.38.39:240][  0]SourceControl: Source control is disabled
+[2018.08.26-07.38.39:256][  0]SourceControl: Source control is disabled
+[2018.08.26-07.38.39:721][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.26-07.38.39:857][  0]LogOcInput: OculusInput pre-init called
+[2018.08.26-07.38.39:963][  0]LogEngine: Initializing Engine...
+[2018.08.26-07.38.39:964][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.26-07.38.39:965][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.26-07.38.39:965][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.26-07.38.40:214][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.26-07.38.40:221][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.26-07.38.40:266][  0]LogInit: FAudioDevice initialized.
+[2018.08.26-07.38.40:339][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/Baz_K/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.26-07.38.40:342][  0]LogInit: Texture streaming: Enabled
+[2018.08.26-07.38.40:358][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.26-07.38.40:370][  0]LogInit: Transaction tracking system initialized
+[2018.08.26-07.38.40:391][  0]BlueprintLog: New page: Editor Load
+[2018.08.26-07.38.40:462][  0]LocalizationService: Localization service is disabled
+[2018.08.26-07.38.40:576][  0]LogConsoleResponse: Display: 
+[2018.08.26-07.38.40:716][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.26-07.38.40:716][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.26-07.38.40:716][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.26-07.38.40:716][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.26-07.38.40:716][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.26-07.38.41:061][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/FirstPersonGames/ArenaShooter/Content/' took 0.01s
+[2018.08.26-07.38.41:061][  0]SourceControl: Source control is disabled
+[2018.08.26-07.38.41:061][  0]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Maps/AngleGate.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.26-07.38.41:061][  0]LightingResults: New page: Lighting Build
+[2018.08.26-07.38.41:063][  0]MapCheck: New page: Map Check
+[2018.08.26-07.38.41:064][  0]LightingResults: New page: Lighting Build
+[2018.08.26-07.38.41:092][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a968545b0, Size=48, Default__Anim_SpaceMarine_C Function /Game/Blueprint/Characters/SpaceMarine/Anim_SpaceMarine.Anim_SpaceMarine_C:ExecuteUbergraph_Anim_SpaceMarine
+[2018.08.26-07.38.41:095][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a968545b0, Size=48
+[2018.08.26-07.38.41:095][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a968545b0, Size=48, Default__Anim_SpaceMarine_C Function /Engine/Transient.REINST_Anim_SpaceMarine_C_0:ExecuteUbergraph_Anim_SpaceMarine
+[2018.08.26-07.38.41:097][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015ab701b5e0, Size=48, Default__Anim_SpaceMarine_C Function /Game/Blueprint/Characters/SpaceMarine/Anim_SpaceMarine.Anim_SpaceMarine_C:ExecuteUbergraph_Anim_SpaceMarine
+[2018.08.26-07.38.41:098][  0]LogBlueprint: Warning: [Compiler Anim_SpaceMarine] Node  Blendspace Player 'Blend_Idle_Forward'  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.08.26-07.38.41:098][  0]LogBlueprint: Warning: [Compiler Anim_SpaceMarine] Node  Blendspace Player 'Blend_Idle_Forward'  uses potentially thread-unsafe call  Cast To Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.08.26-07.38.41:098][  0]LogBlueprint: Warning: [Compiler Anim_SpaceMarine] [0009.32] Compile of Anim_SpaceMarine successful, but with 2 Warning(s) [in 4 ms] (/Game/Blueprint/Characters/SpaceMarine/Anim_SpaceMarine.Anim_SpaceMarine)
+[2018.08.26-07.38.41:120][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a98a1f200, Size=1152, Default__0_BasePlayer_C Function /Game/Blueprint/Characters/0_BasePlayer.0_BasePlayer_C:ExecuteUbergraph_0_BasePlayer
+[2018.08.26-07.38.41:121][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015ab700ac50, Size=112, Default__AI_Basic_C Function /Game/AI/AI_Basic.AI_Basic_C:ExecuteUbergraph_AI_Basic
+[2018.08.26-07.38.41:137][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a98ad72e0, Size=96, Default__FindRandomLocation_C Function /Game/AI/FindRandomLocation.FindRandomLocation_C:ExecuteUbergraph_FindRandomLocation
+[2018.08.26-07.38.41:141][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a989d7900, Size=204, Default__1_AIBase_C Function /Game/Blueprint/Characters/1_AIBase.1_AIBase_C:ExecuteUbergraph_1_AIBase
+[2018.08.26-07.38.41:141][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a989e9600, Size=1152, Default__1_AIBase_C Function /Game/Blueprint/Characters/0_BasePlayer.0_BasePlayer_C:ExecuteUbergraph_0_BasePlayer
+[2018.08.26-07.38.41:163][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a98a87e80, Size=376, Default__0_Item_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:241][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a982cbd80, Size=288, Default__1_PlayerBase_C Function /Game/Blueprint/Characters/1_PlayerBase.1_PlayerBase_C:ExecuteUbergraph_1_PlayerBase
+[2018.08.26-07.38.41:241][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a982d2b00, Size=1152, Default__1_PlayerBase_C Function /Game/Blueprint/Characters/0_BasePlayer.0_BasePlayer_C:ExecuteUbergraph_0_BasePlayer
+[2018.08.26-07.38.41:245][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a98a52018, Size=8, Default__DeadPlayerGrave_C Function /Game/Blueprint/Characters/DeadPlayerGrave.DeadPlayerGrave_C:ExecuteUbergraph_DeadPlayerGrave
+[2018.08.26-07.38.41:248][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9828fa00, Size=736, Default__InGameController_C Function /Game/Blueprint/InGameController.InGameController_C:ExecuteUbergraph_InGameController
+[2018.08.26-07.38.41:249][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a988834c0, Size=160, Default__MyGameInstance_C Function /Game/Blueprint/MyGameInstance.MyGameInstance_C:ExecuteUbergraph_MyGameInstance
+[2018.08.26-07.38.41:250][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a98ad5f60, Size=96, Default__InventoryPanel_C Function /Game/UMG/InventoryPanel.InventoryPanel_C:ExecuteUbergraph_InventoryPanel
+[2018.08.26-07.38.41:258][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a98ad0d00, Size=128, Default__ItemInInventory_C Function /Game/UMG/ItemInInventory.ItemInInventory_C:ExecuteUbergraph_ItemInInventory
+[2018.08.26-07.38.41:266][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a986d2080, Size=168, Default__0_StashOrganiser_C Function /Game/Blueprint/Organisers/0_StashOrganiser.0_StashOrganiser_C:ExecuteUbergraph_0_StashOrganiser
+[2018.08.26-07.38.41:291][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a98ad3480, Size=120, Default__PickText_C Function /Game/UMG/PickText.PickText_C:ExecuteUbergraph_PickText
+[2018.08.26-07.38.41:301][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9d445300, Size=576, Default__1_EquimentOrganiser_C Function /Game/Blueprint/Organisers/1_EquimentOrganiser.1_EquimentOrganiser_C:ExecuteUbergraph_1_EquimentOrganiser
+[2018.08.26-07.38.41:302][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a986d16c0, Size=168, Default__1_EquimentOrganiser_C Function /Game/Blueprint/Organisers/0_StashOrganiser.0_StashOrganiser_C:ExecuteUbergraph_0_StashOrganiser
+[2018.08.26-07.38.41:307][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9d470100, Size=208, Default__HUD_C Function /Game/UMG/HUD.HUD_C:ExecuteUbergraph_HUD
+[2018.08.26-07.38.41:309][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9d4ced00, Size=128, Default__ExperienceBar_C Function /Game/UMG/ExperienceBar.ExperienceBar_C:ExecuteUbergraph_ExperienceBar
+[2018.08.26-07.38.41:312][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a98699370, Size=12, Default__ItemOptionList_C Function /Game/UMG/ItemOptionList.ItemOptionList_C:ExecuteUbergraph_ItemOptionList
+[2018.08.26-07.38.41:319][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015aa0247920, Size=40, Default__ItemReadOut_C Function /Game/UMG/ItemReadOut.ItemReadOut_C:ExecuteUbergraph_ItemReadOut
+[2018.08.26-07.38.41:321][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9d8c3d00, Size=24, Default__1_Weapon_C Function /Game/Blueprint/Weapons/1_Weapon.1_Weapon_C:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.41:321][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9d886200, Size=376, Default__1_Weapon_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:328][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9d883a00, Size=728, Default__0_Projectile_C Function /Game/Blueprint/Projectiles/0_Projectile.0_Projectile_C:ExecuteUbergraph_0_Projectile
+[2018.08.26-07.38.41:341][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9d8c3718, Size=24, Default__2_BoltPistol_C Function /Game/Blueprint/Weapons/1_Weapon.1_Weapon_C:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.41:341][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9d833d00, Size=376, Default__2_BoltPistol_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:346][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9d8c66a0, Size=112, Default__LevelUp_C Function /Game/UMG/LevelUp.LevelUp_C:ExecuteUbergraph_LevelUp
+[2018.08.26-07.38.41:352][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9d8c3520, Size=24, Default__1_Weapon_C Function /Game/Blueprint/Weapons/1_Weapon.1_Weapon_C:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.41:352][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9d80ec80, Size=376, Default__1_Weapon_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:375][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9d8c2860, Size=24, Default__2_BoltPistol_C Function /Game/Blueprint/Weapons/1_Weapon.1_Weapon_C:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.41:375][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abb8c5a80, Size=376, Default__2_BoltPistol_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:388][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abb8d4220, Size=160, Default__SkillIcon_C Function /Game/UMG/SkillIcon.SkillIcon_C:ExecuteUbergraph_SkillIcon
+[2018.08.26-07.38.41:393][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9d8c5280, Size=112, Default__InGameMode_C Function /Game/Blueprint/InGameMode.InGameMode_C:ExecuteUbergraph_InGameMode
+[2018.08.26-07.38.41:394][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abb833be0, Size=32, Default__RespawnScreen_C Function /Game/UMG/RespawnScreen.RespawnScreen_C:ExecuteUbergraph_RespawnScreen
+[2018.08.26-07.38.41:408][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abb8c9a80, Size=576, Default__1_EquimentOrganiser_C Function /Game/Blueprint/Organisers/1_EquimentOrganiser.1_EquimentOrganiser_C:ExecuteUbergraph_1_EquimentOrganiser
+[2018.08.26-07.38.41:408][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abb7df4c0, Size=168, Default__1_EquimentOrganiser_C Function /Game/Blueprint/Organisers/0_StashOrganiser.0_StashOrganiser_C:ExecuteUbergraph_0_StashOrganiser
+[2018.08.26-07.38.41:436][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abb8bc900, Size=288, Default__1_PlayerBase_C Function /Game/Blueprint/Characters/1_PlayerBase.1_PlayerBase_C:ExecuteUbergraph_1_PlayerBase
+[2018.08.26-07.38.41:436][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abb6f1d00, Size=1152, Default__1_PlayerBase_C Function /Game/Blueprint/Characters/0_BasePlayer.0_BasePlayer_C:ExecuteUbergraph_0_BasePlayer
+[2018.08.26-07.38.41:437][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abb6af2e0, Size=204, Default__1_AIBase_C Function /Game/Blueprint/Characters/1_AIBase.1_AIBase_C:ExecuteUbergraph_1_AIBase
+[2018.08.26-07.38.41:438][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abb6f1600, Size=1152, Default__1_AIBase_C Function /Game/Blueprint/Characters/0_BasePlayer.0_BasePlayer_C:ExecuteUbergraph_0_BasePlayer
+[2018.08.26-07.38.41:475][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abb83c900, Size=240, Default__1_Grenade_C Function /Game/Blueprint/Projectiles/1_Grenade.1_Grenade_C:ExecuteUbergraph_1_Grenade
+[2018.08.26-07.38.41:475][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9e08c400, Size=728, Default__1_Grenade_C Function /Game/Blueprint/Projectiles/0_Projectile.0_Projectile_C:ExecuteUbergraph_0_Projectile
+[2018.08.26-07.38.41:479][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abb7d9fd8, Size=24, Default__2_GrenadeThrow_C Function /Game/Blueprint/Weapons/1_Weapon.1_Weapon_C:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.41:479][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9dcad180, Size=376, Default__2_GrenadeThrow_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:488][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9dcb3900, Size=856, Default__2_PowerHammer_C Function /Game/Blueprint/Weapons/2_PowerHammer.2_PowerHammer_C:ExecuteUbergraph_2_PowerHammer
+[2018.08.26-07.38.41:488][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abb7d9cf0, Size=24, Default__2_PowerHammer_C Function /Game/Blueprint/Weapons/1_Weapon.1_Weapon_C:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.41:488][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9dc9eb00, Size=376, Default__2_PowerHammer_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:513][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9dc27400, Size=656, Default__1_Rocket_C Function /Game/Blueprint/Projectiles/1_Rocket.1_Rocket_C:ExecuteUbergraph_1_Rocket
+[2018.08.26-07.38.41:513][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9dc27100, Size=728, Default__1_Rocket_C Function /Game/Blueprint/Projectiles/0_Projectile.0_Projectile_C:ExecuteUbergraph_0_Projectile
+[2018.08.26-07.38.41:520][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abb7d97e0, Size=24, Default__2_RocketLauncher_C Function /Game/Blueprint/Weapons/1_Weapon.1_Weapon_C:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.41:520][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9dbeee00, Size=376, Default__2_RocketLauncher_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:528][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abb7427f8, Size=4, Default__0_Vehicle_C Function /Game/Blueprint/Characters/0_Vehicle.0_Vehicle_C:ExecuteUbergraph_0_Vehicle
+[2018.08.26-07.38.41:537][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abb742768, Size=4, Default__Anim_Stormtalon_C Function /Game/Blueprint/Characters/StormTalon/Anim_Stormtalon.Anim_Stormtalon_C:ExecuteUbergraph_Anim_Stormtalon
+[2018.08.26-07.38.41:540][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9dcb1280, Size=784, Default__StormtalonAttack_C Function /Game/Blueprint/MapTools/StormtalonAttack.StormtalonAttack_C:ExecuteUbergraph_StormtalonAttack
+[2018.08.26-07.38.41:541][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9dbce680, Size=336, Default__1_Stormtalon_C Function /Game/Blueprint/Characters/StormTalon/1_Stormtalon.1_Stormtalon_C:ExecuteUbergraph_1_Stormtalon
+[2018.08.26-07.38.41:541][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abb742700, Size=4, Default__1_Stormtalon_C Function /Game/Blueprint/Characters/0_Vehicle.0_Vehicle_C:ExecuteUbergraph_0_Vehicle
+[2018.08.26-07.38.41:574][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9dbb7b20, Size=96, Default__2_TargetLocator_C Function /Game/Blueprint/Weapons/2_TargetLocator.2_TargetLocator_C:ExecuteUbergraph_2_TargetLocator
+[2018.08.26-07.38.41:574][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9d727d30, Size=24, Default__2_TargetLocator_C Function /Game/Blueprint/Weapons/1_Weapon.1_Weapon_C:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.41:574][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a984b6b00, Size=376, Default__2_TargetLocator_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:625][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a989dd3a0, Size=152, Default__ShotWhenInRange_C Function /Game/AI/ShotWhenInRange.ShotWhenInRange_C:ExecuteUbergraph_ShotWhenInRange
+[2018.08.26-07.38.41:704][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a986d2080, Size=168
+[2018.08.26-07.38.41:704][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdc55540, Size=168, Default__0_StashOrganiser_C Function /Engine/Transient.REINST_0_StashOrganiser_C_6:ExecuteUbergraph_0_StashOrganiser
+[2018.08.26-07.38.41:705][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a98a87e80, Size=376
+[2018.08.26-07.38.41:705][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdf4b700, Size=376, Default__0_Item_C Function /Engine/Transient.REINST_0_Item_C_8:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:705][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9d883a00, Size=728
+[2018.08.26-07.38.41:705][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdca0700, Size=728, Default__0_Projectile_C Function /Engine/Transient.REINST_0_Projectile_C_9:ExecuteUbergraph_0_Projectile
+[2018.08.26-07.38.41:706][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abb8c9a80, Size=576
+[2018.08.26-07.38.41:706][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abb7df4c0, Size=168
+[2018.08.26-07.38.41:706][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdc4c180, Size=576, Default__1_EquimentOrganiser_C Function /Engine/Transient.REINST_1_EquimentOrganiser_C_10:ExecuteUbergraph_1_EquimentOrganiser
+[2018.08.26-07.38.41:706][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdc54f40, Size=168, Default__1_EquimentOrganiser_C Function /Engine/Transient.REINST_0_StashOrganiser_C_6:ExecuteUbergraph_0_StashOrganiser
+[2018.08.26-07.38.41:706][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abb742768, Size=4
+[2018.08.26-07.38.41:706][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe151e38, Size=4, Default__Anim_Stormtalon_C Function /Engine/Transient.REINST_Anim_Stormtalon_C_1:ExecuteUbergraph_Anim_Stormtalon
+[2018.08.26-07.38.41:707][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a988834c0, Size=160
+[2018.08.26-07.38.41:707][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdf21580, Size=160, Default__MyGameInstance_C Function /Engine/Transient.REINST_MyGameInstance_C_14:ExecuteUbergraph_MyGameInstance
+[2018.08.26-07.38.41:707][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9dcb1280, Size=784
+[2018.08.26-07.38.41:707][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdf1b580, Size=784, Default__StormtalonAttack_C Function /Engine/Transient.REINST_StormtalonAttack_C_16:ExecuteUbergraph_StormtalonAttack
+[2018.08.26-07.38.41:708][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abb83c900, Size=240
+[2018.08.26-07.38.41:708][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9e08c400, Size=728
+[2018.08.26-07.38.41:708][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abd9ace00, Size=240, Default__1_Grenade_C Function /Engine/Transient.REINST_1_Grenade_C_17:ExecuteUbergraph_1_Grenade
+[2018.08.26-07.38.41:708][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdf2d900, Size=728, Default__1_Grenade_C Function /Engine/Transient.REINST_0_Projectile_C_9:ExecuteUbergraph_0_Projectile
+[2018.08.26-07.38.41:708][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9dc27400, Size=656
+[2018.08.26-07.38.41:708][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9dc27100, Size=728
+[2018.08.26-07.38.41:708][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdf2ca00, Size=656, Default__1_Rocket_C Function /Engine/Transient.REINST_1_Rocket_C_18:ExecuteUbergraph_1_Rocket
+[2018.08.26-07.38.41:708][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdf2c700, Size=728, Default__1_Rocket_C Function /Engine/Transient.REINST_0_Projectile_C_9:ExecuteUbergraph_0_Projectile
+[2018.08.26-07.38.41:709][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9d8c3520, Size=24
+[2018.08.26-07.38.41:709][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9d80ec80, Size=376
+[2018.08.26-07.38.41:709][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9de10f88, Size=24, Default__1_Weapon_C Function /Engine/Transient.REINST_1_Weapon_C_19:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.41:709][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdf03b80, Size=376, Default__1_Weapon_C Function /Engine/Transient.REINST_0_Item_C_8:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:710][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a98a52018, Size=8
+[2018.08.26-07.38.41:710][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe151df0, Size=8, Default__DeadPlayerGrave_C Function /Engine/Transient.REINST_DeadPlayerGrave_C_20:ExecuteUbergraph_DeadPlayerGrave
+[2018.08.26-07.38.41:710][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a98a1f200, Size=1152
+[2018.08.26-07.38.41:710][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdefb200, Size=1152, Default__0_BasePlayer_C Function /Engine/Transient.REINST_0_BasePlayer_C_21:ExecuteUbergraph_0_BasePlayer
+[2018.08.26-07.38.41:711][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abb7427f8, Size=4
+[2018.08.26-07.38.41:711][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe151de8, Size=4, Default__0_Vehicle_C Function /Engine/Transient.REINST_0_Vehicle_C_22:ExecuteUbergraph_0_Vehicle
+[2018.08.26-07.38.41:711][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9d8c2860, Size=24
+[2018.08.26-07.38.41:711][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abb8c5a80, Size=376
+[2018.08.26-07.38.41:711][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9de10ec8, Size=24, Default__2_BoltPistol_C Function /Engine/Transient.REINST_1_Weapon_C_19:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.41:711][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdf01180, Size=376, Default__2_BoltPistol_C Function /Engine/Transient.REINST_0_Item_C_8:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:711][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abb7d9fd8, Size=24
+[2018.08.26-07.38.41:711][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9dcad180, Size=376
+[2018.08.26-07.38.41:711][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9de10e08, Size=24, Default__2_GrenadeThrow_C Function /Engine/Transient.REINST_1_Weapon_C_19:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.41:711][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdf00b80, Size=376, Default__2_GrenadeThrow_C Function /Engine/Transient.REINST_0_Item_C_8:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9dcb3900, Size=856
+[2018.08.26-07.38.41:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abb7d9cf0, Size=24
+[2018.08.26-07.38.41:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9dc9eb00, Size=376
+[2018.08.26-07.38.41:712][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdf1a400, Size=856, Default__2_PowerHammer_C Function /Engine/Transient.REINST_2_PowerHammer_C_25:ExecuteUbergraph_2_PowerHammer
+[2018.08.26-07.38.41:712][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9de10e38, Size=24, Default__2_PowerHammer_C Function /Engine/Transient.REINST_1_Weapon_C_19:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.41:712][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdee3e80, Size=376, Default__2_PowerHammer_C Function /Engine/Transient.REINST_0_Item_C_8:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abb7d97e0, Size=24
+[2018.08.26-07.38.41:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9dbeee00, Size=376
+[2018.08.26-07.38.41:712][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9de10e68, Size=24, Default__2_RocketLauncher_C Function /Engine/Transient.REINST_1_Weapon_C_19:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.41:712][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdee3880, Size=376, Default__2_RocketLauncher_C Function /Engine/Transient.REINST_0_Item_C_8:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9dbb7b20, Size=96
+[2018.08.26-07.38.41:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9d727d30, Size=24
+[2018.08.26-07.38.41:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a984b6b00, Size=376
+[2018.08.26-07.38.41:712][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe00f5e0, Size=96, Default__2_TargetLocator_C Function /Engine/Transient.REINST_2_TargetLocator_C_27:ExecuteUbergraph_2_TargetLocator
+[2018.08.26-07.38.41:712][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9de10e98, Size=24, Default__2_TargetLocator_C Function /Engine/Transient.REINST_1_Weapon_C_19:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.41:712][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdee2e00, Size=376, Default__2_TargetLocator_C Function /Engine/Transient.REINST_0_Item_C_8:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:713][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015ab700ac50, Size=112
+[2018.08.26-07.38.41:713][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe02e7f0, Size=112, Default__AI_Basic_C Function /Engine/Transient.REINST_AI_Basic_C_28:ExecuteUbergraph_AI_Basic
+[2018.08.26-07.38.41:713][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9d4ced00, Size=128
+[2018.08.26-07.38.41:713][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9de4d780, Size=128, Default__ExperienceBar_C Function /Engine/Transient.REINST_ExperienceBar_C_1:ExecuteUbergraph_ExperienceBar
+[2018.08.26-07.38.41:713][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a98ad72e0, Size=96
+[2018.08.26-07.38.41:713][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe00f460, Size=96, Default__FindRandomLocation_C Function /Engine/Transient.REINST_FindRandomLocation_C_29:ExecuteUbergraph_FindRandomLocation
+[2018.08.26-07.38.41:714][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9d470100, Size=208
+[2018.08.26-07.38.41:714][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdef1a60, Size=208, Default__HUD_C Function /Engine/Transient.REINST_HUD_C_2:ExecuteUbergraph_HUD
+[2018.08.26-07.38.41:714][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9828fa00, Size=736
+[2018.08.26-07.38.41:714][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9dc27700, Size=736, Default__InGameController_C Function /Engine/Transient.REINST_InGameController_C_30:ExecuteUbergraph_InGameController
+[2018.08.26-07.38.41:715][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9d8c5280, Size=112
+[2018.08.26-07.38.41:715][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe02e9b0, Size=112, Default__InGameMode_C Function /Engine/Transient.REINST_InGameMode_C_31:ExecuteUbergraph_InGameMode
+[2018.08.26-07.38.41:715][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a98ad5f60, Size=96
+[2018.08.26-07.38.41:715][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe00f2e0, Size=96, Default__InventoryPanel_C Function /Engine/Transient.REINST_InventoryPanel_C_3:ExecuteUbergraph_InventoryPanel
+[2018.08.26-07.38.41:715][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a98ad0d00, Size=128
+[2018.08.26-07.38.41:715][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9de4cf00, Size=128, Default__ItemInInventory_C Function /Engine/Transient.REINST_ItemInInventory_C_4:ExecuteUbergraph_ItemInInventory
+[2018.08.26-07.38.41:715][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a98699370, Size=12
+[2018.08.26-07.38.41:715][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe0bd910, Size=12, Default__ItemOptionList_C Function /Engine/Transient.REINST_ItemOptionList_C_5:ExecuteUbergraph_ItemOptionList
+[2018.08.26-07.38.41:716][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015aa0247920, Size=40
+[2018.08.26-07.38.41:716][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a9dc904a0, Size=40, Default__ItemReadOut_C Function /Engine/Transient.REINST_ItemReadOut_C_6:ExecuteUbergraph_ItemReadOut
+[2018.08.26-07.38.41:716][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9d8c66a0, Size=112
+[2018.08.26-07.38.41:716][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe02e4e0, Size=112, Default__LevelUp_C Function /Engine/Transient.REINST_LevelUp_C_7:ExecuteUbergraph_LevelUp
+[2018.08.26-07.38.41:716][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a98ad3480, Size=120
+[2018.08.26-07.38.41:716][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdeabe80, Size=120, Default__PickText_C Function /Engine/Transient.REINST_PickText_C_8:ExecuteUbergraph_PickText
+[2018.08.26-07.38.41:717][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abb833be0, Size=32
+[2018.08.26-07.38.41:717][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdf81400, Size=32, Default__RespawnScreen_C Function /Engine/Transient.REINST_RespawnScreen_C_9:ExecuteUbergraph_RespawnScreen
+[2018.08.26-07.38.41:717][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a989dd3a0, Size=152
+[2018.08.26-07.38.41:717][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdea1800, Size=152, Default__ShotWhenInRange_C Function /Engine/Transient.REINST_ShotWhenInRange_C_32:ExecuteUbergraph_ShotWhenInRange
+[2018.08.26-07.38.41:717][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abb8d4220, Size=160
+[2018.08.26-07.38.41:717][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdea0c20, Size=160, Default__SkillIcon_C Function /Engine/Transient.REINST_SkillIcon_C_10:ExecuteUbergraph_SkillIcon
+[2018.08.26-07.38.41:717][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abb6af2e0, Size=204
+[2018.08.26-07.38.41:717][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abb6f1600, Size=1152
+[2018.08.26-07.38.41:717][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdeb9360, Size=204, Default__1_AIBase_C Function /Engine/Transient.REINST_1_AIBase_C_33:ExecuteUbergraph_1_AIBase
+[2018.08.26-07.38.41:717][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abde98f00, Size=1152, Default__1_AIBase_C Function /Engine/Transient.REINST_0_BasePlayer_C_21:ExecuteUbergraph_0_BasePlayer
+[2018.08.26-07.38.41:718][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abb8bc900, Size=288
+[2018.08.26-07.38.41:719][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abb6f1d00, Size=1152
+[2018.08.26-07.38.41:719][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe0d96c0, Size=288, Default__1_PlayerBase_C Function /Engine/Transient.REINST_1_PlayerBase_C_34:ExecuteUbergraph_1_PlayerBase
+[2018.08.26-07.38.41:719][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abde7dd00, Size=1152, Default__1_PlayerBase_C Function /Engine/Transient.REINST_0_BasePlayer_C_21:ExecuteUbergraph_0_BasePlayer
+[2018.08.26-07.38.41:719][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9dbce680, Size=336
+[2018.08.26-07.38.41:719][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abb742700, Size=4
+[2018.08.26-07.38.41:719][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abde94400, Size=336, Default__1_Stormtalon_C Function /Engine/Transient.REINST_1_Stormtalon_C_35:ExecuteUbergraph_1_Stormtalon
+[2018.08.26-07.38.41:719][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe151d50, Size=4, Default__1_Stormtalon_C Function /Engine/Transient.REINST_0_Vehicle_C_22:ExecuteUbergraph_0_Vehicle
+[2018.08.26-07.38.41:890][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe2f2a40, Size=168, Default__0_StashOrganiser_C Function /Game/Blueprint/Organisers/0_StashOrganiser.0_StashOrganiser_C:ExecuteUbergraph_0_StashOrganiser
+[2018.08.26-07.38.41:894][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe27fd00, Size=376, Default__0_Item_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:897][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe24ee00, Size=728, Default__0_Projectile_C Function /Game/Blueprint/Projectiles/0_Projectile.0_Projectile_C:ExecuteUbergraph_0_Projectile
+[2018.08.26-07.38.41:902][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe30e480, Size=576, Default__1_EquimentOrganiser_C Function /Game/Blueprint/Organisers/1_EquimentOrganiser.1_EquimentOrganiser_C:ExecuteUbergraph_1_EquimentOrganiser
+[2018.08.26-07.38.41:902][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe1e5c00, Size=168, Default__1_EquimentOrganiser_C Function /Game/Blueprint/Organisers/0_StashOrganiser.0_StashOrganiser_C:ExecuteUbergraph_0_StashOrganiser
+[2018.08.26-07.38.41:903][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe26f550, Size=4, Default__Anim_Stormtalon_C Function /Game/Blueprint/Characters/StormTalon/Anim_Stormtalon.Anim_Stormtalon_C:ExecuteUbergraph_Anim_Stormtalon
+[2018.08.26-07.38.41:906][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe19fb00, Size=160, Default__MyGameInstance_C Function /Game/Blueprint/MyGameInstance.MyGameInstance_C:ExecuteUbergraph_MyGameInstance
+[2018.08.26-07.38.41:909][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abf172b00, Size=784, Default__StormtalonAttack_C Function /Game/Blueprint/MapTools/StormtalonAttack.StormtalonAttack_C:ExecuteUbergraph_StormtalonAttack
+[2018.08.26-07.38.41:910][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abf13a900, Size=240, Default__1_Grenade_C Function /Game/Blueprint/Projectiles/1_Grenade.1_Grenade_C:ExecuteUbergraph_1_Grenade
+[2018.08.26-07.38.41:910][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe185f00, Size=728, Default__1_Grenade_C Function /Game/Blueprint/Projectiles/0_Projectile.0_Projectile_C:ExecuteUbergraph_0_Projectile
+[2018.08.26-07.38.41:912][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe185000, Size=656, Default__1_Rocket_C Function /Game/Blueprint/Projectiles/1_Rocket.1_Rocket_C:ExecuteUbergraph_1_Rocket
+[2018.08.26-07.38.41:912][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe184a00, Size=728, Default__1_Rocket_C Function /Game/Blueprint/Projectiles/0_Projectile.0_Projectile_C:ExecuteUbergraph_0_Projectile
+[2018.08.26-07.38.41:916][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe2363c8, Size=24, Default__1_Weapon_C Function /Game/Blueprint/Weapons/1_Weapon.1_Weapon_C:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.41:916][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abf14df00, Size=376, Default__1_Weapon_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:917][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe26ece0, Size=8, Default__DeadPlayerGrave_C Function /Game/Blueprint/Characters/DeadPlayerGrave.DeadPlayerGrave_C:ExecuteUbergraph_DeadPlayerGrave
+[2018.08.26-07.38.41:921][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abf084f00, Size=1152, Default__0_BasePlayer_C Function /Game/Blueprint/Characters/0_BasePlayer.0_BasePlayer_C:ExecuteUbergraph_0_BasePlayer
+[2018.08.26-07.38.41:923][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe26ea48, Size=4, Default__0_Vehicle_C Function /Game/Blueprint/Characters/0_Vehicle.0_Vehicle_C:ExecuteUbergraph_0_Vehicle
+[2018.08.26-07.38.41:923][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe235b28, Size=24, Default__2_BoltPistol_C Function /Game/Blueprint/Weapons/1_Weapon.1_Weapon_C:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.41:923][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abf04bd00, Size=376, Default__2_BoltPistol_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:923][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe235b40, Size=24, Default__2_GrenadeThrow_C Function /Game/Blueprint/Weapons/1_Weapon.1_Weapon_C:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.41:923][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abf04b880, Size=376, Default__2_GrenadeThrow_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:925][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abf03f200, Size=856, Default__2_PowerHammer_C Function /Game/Blueprint/Weapons/2_PowerHammer.2_PowerHammer_C:ExecuteUbergraph_2_PowerHammer
+[2018.08.26-07.38.41:925][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe235870, Size=24, Default__2_PowerHammer_C Function /Game/Blueprint/Weapons/1_Weapon.1_Weapon_C:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.41:925][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abf04b400, Size=376, Default__2_PowerHammer_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:926][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe235828, Size=24, Default__2_RocketLauncher_C Function /Game/Blueprint/Weapons/1_Weapon.1_Weapon_C:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.41:926][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abf04ac80, Size=376, Default__2_RocketLauncher_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:926][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abf0bc280, Size=96, Default__2_TargetLocator_C Function /Game/Blueprint/Weapons/2_TargetLocator.2_TargetLocator_C:ExecuteUbergraph_2_TargetLocator
+[2018.08.26-07.38.41:926][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe2356f0, Size=24, Default__2_TargetLocator_C Function /Game/Blueprint/Weapons/1_Weapon.1_Weapon_C:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.41:926][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abf04a500, Size=376, Default__2_TargetLocator_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.41:928][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abeffa7f0, Size=112, Default__AI_Basic_C Function /Game/AI/AI_Basic.AI_Basic_C:ExecuteUbergraph_AI_Basic
+[2018.08.26-07.38.41:929][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abf099380, Size=128, Default__ExperienceBar_C Function /Game/UMG/ExperienceBar.ExperienceBar_C:ExecuteUbergraph_ExperienceBar
+[2018.08.26-07.38.41:930][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abf00af80, Size=96, Default__FindRandomLocation_C Function /Game/AI/FindRandomLocation.FindRandomLocation_C:ExecuteUbergraph_FindRandomLocation
+[2018.08.26-07.38.41:932][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe352240, Size=208, Default__HUD_C Function /Game/UMG/HUD.HUD_C:ExecuteUbergraph_HUD
+[2018.08.26-07.38.41:937][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abefac400, Size=736, Default__InGameController_C Function /Game/Blueprint/InGameController.InGameController_C:ExecuteUbergraph_InGameController
+[2018.08.26-07.38.41:940][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abeefe630, Size=112, Default__InGameMode_C Function /Game/Blueprint/InGameMode.InGameMode_C:ExecuteUbergraph_InGameMode
+[2018.08.26-07.38.41:943][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abf008ac0, Size=96, Default__InventoryPanel_C Function /Game/UMG/InventoryPanel.InventoryPanel_C:ExecuteUbergraph_InventoryPanel
+[2018.08.26-07.38.41:945][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abef2e180, Size=128, Default__ItemInInventory_C Function /Game/UMG/ItemInInventory.ItemInInventory_C:ExecuteUbergraph_ItemInInventory
+[2018.08.26-07.38.41:946][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe340700, Size=12, Default__ItemOptionList_C Function /Game/UMG/ItemOptionList.ItemOptionList_C:ExecuteUbergraph_ItemOptionList
+[2018.08.26-07.38.41:949][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abefb31a0, Size=40, Default__ItemReadOut_C Function /Game/UMG/ItemReadOut.ItemReadOut_C:ExecuteUbergraph_ItemReadOut
+[2018.08.26-07.38.41:950][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abee6b510, Size=112, Default__LevelUp_C Function /Game/UMG/LevelUp.LevelUp_C:ExecuteUbergraph_LevelUp
+[2018.08.26-07.38.41:951][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abef2c280, Size=120, Default__PickText_C Function /Game/UMG/PickText.PickText_C:ExecuteUbergraph_PickText
+[2018.08.26-07.38.41:952][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abee96820, Size=32, Default__RespawnScreen_C Function /Game/UMG/RespawnScreen.RespawnScreen_C:ExecuteUbergraph_RespawnScreen
+[2018.08.26-07.38.41:953][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abee8c4a0, Size=152, Default__ShotWhenInRange_C Function /Game/AI/ShotWhenInRange.ShotWhenInRange_C:ExecuteUbergraph_ShotWhenInRange
+[2018.08.26-07.38.41:954][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abee2fce0, Size=160, Default__SkillIcon_C Function /Game/UMG/SkillIcon.SkillIcon_C:ExecuteUbergraph_SkillIcon
+[2018.08.26-07.38.41:956][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe351c20, Size=204, Default__1_AIBase_C Function /Game/Blueprint/Characters/1_AIBase.1_AIBase_C:ExecuteUbergraph_1_AIBase
+[2018.08.26-07.38.41:956][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abee19d00, Size=1152, Default__1_AIBase_C Function /Game/Blueprint/Characters/0_BasePlayer.0_BasePlayer_C:ExecuteUbergraph_0_BasePlayer
+[2018.08.26-07.38.41:964][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe2cd6c0, Size=288, Default__1_PlayerBase_C Function /Game/Blueprint/Characters/1_PlayerBase.1_PlayerBase_C:ExecuteUbergraph_1_PlayerBase
+[2018.08.26-07.38.41:964][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015ac1dcab00, Size=1152, Default__1_PlayerBase_C Function /Game/Blueprint/Characters/0_BasePlayer.0_BasePlayer_C:ExecuteUbergraph_0_BasePlayer
+[2018.08.26-07.38.41:969][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abedca800, Size=336, Default__1_Stormtalon_C Function /Game/Blueprint/Characters/StormTalon/1_Stormtalon.1_Stormtalon_C:ExecuteUbergraph_1_Stormtalon
+[2018.08.26-07.38.41:969][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abe26c410, Size=4, Default__1_Stormtalon_C Function /Game/Blueprint/Characters/0_Vehicle.0_Vehicle_C:ExecuteUbergraph_0_Vehicle
+[2018.08.26-07.38.42:087][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abeea2938, Size=24, Default__2_Bolter_C Function /Game/Blueprint/Weapons/1_Weapon.1_Weapon_C:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.42:087][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015ac1d0b580, Size=376, Default__2_Bolter_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.42:088][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abeea2938, Size=24
+[2018.08.26-07.38.42:088][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015ac1d0b580, Size=376
+[2018.08.26-07.38.42:088][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abeea2938, Size=24, Default__2_Bolter_C Function /Game/Blueprint/Weapons/1_Weapon.1_Weapon_C:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.42:088][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015ac1d0a380, Size=376, Default__2_Bolter_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.42:088][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abeea28a8, Size=24, Default__2_Bolter_C Function /Game/Blueprint/Weapons/1_Weapon.1_Weapon_C:ExecuteUbergraph_1_Weapon
+[2018.08.26-07.38.42:088][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015ac1d09f00, Size=376, Default__2_Bolter_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.42:092][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015ac1d0b880, Size=376, Default__1_Backpack_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.42:093][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015ac1d0b880, Size=376
+[2018.08.26-07.38.42:093][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a98a36800, Size=376, Default__1_Backpack_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.42:093][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a98a36500, Size=376, Default__1_Backpack_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.42:097][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015ac1d63820, Size=48, Default__1_Button_C Function /Game/Blueprint/Props/1_Button.1_Button_C:ExecuteUbergraph_1_Button
+[2018.08.26-07.38.42:097][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a98a35a80, Size=376, Default__1_Button_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.42:099][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015ac1d63820, Size=48
+[2018.08.26-07.38.42:099][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a98a35a80, Size=376
+[2018.08.26-07.38.42:099][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015ac1d63820, Size=48, Default__1_Button_C Function /Engine/Transient.REINST_1_Button_C_81:ExecuteUbergraph_1_Button
+[2018.08.26-07.38.42:099][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015abdb8f880, Size=376, Default__1_Button_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.42:100][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015ac1d63cd0, Size=48, Default__1_Button_C Function /Game/Blueprint/Props/1_Button.1_Button_C:ExecuteUbergraph_1_Button
+[2018.08.26-07.38.42:100][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015a98abba00, Size=376, Default__1_Button_C Function /Game/Blueprint/Items/0_Item.0_Item_C:ExecuteUbergraph_0_Item
+[2018.08.26-07.38.42:713][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.255835ms] /Game/Models/PrimarisSM2/PrimarisSM2.PrimarisSM2
+[2018.08.26-07.38.42:758][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.754407ms] /Game/Models/StormTalon/StormtalonGunship.StormtalonGunship
+[2018.08.26-07.38.43:167][  0]LogAIModule: Creating AISystem for world AngleGate
+[2018.08.26-07.38.43:320][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a968545b0, Size=48
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdefb200, Size=1152
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe02e7f0, Size=112
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe00f460, Size=96
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdeb9360, Size=204
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abde98f00, Size=1152
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdf4b700, Size=376
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe0d96c0, Size=288
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abde7dd00, Size=1152
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe151df0, Size=8
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9dc27700, Size=736
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdf21580, Size=160
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe00f2e0, Size=96
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9de4cf00, Size=128
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdc55540, Size=168
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdeabe80, Size=120
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdc4c180, Size=576
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdc54f40, Size=168
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdef1a60, Size=208
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9de4d780, Size=128
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe0bd910, Size=12
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9dc904a0, Size=40
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9de10f88, Size=24
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdf03b80, Size=376
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdca0700, Size=728
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9de10ec8, Size=24
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdf01180, Size=376
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe02e4e0, Size=112
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdea0c20, Size=160
+[2018.08.26-07.38.43:344][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe02e9b0, Size=112
+[2018.08.26-07.38.43:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdf81400, Size=32
+[2018.08.26-07.38.43:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abd9ace00, Size=240
+[2018.08.26-07.38.43:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdf2d900, Size=728
+[2018.08.26-07.38.43:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9de10e08, Size=24
+[2018.08.26-07.38.43:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdf00b80, Size=376
+[2018.08.26-07.38.43:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdf1a400, Size=856
+[2018.08.26-07.38.43:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9de10e38, Size=24
+[2018.08.26-07.38.43:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdee3e80, Size=376
+[2018.08.26-07.38.43:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdf2ca00, Size=656
+[2018.08.26-07.38.43:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdf2c700, Size=728
+[2018.08.26-07.38.43:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9de10e68, Size=24
+[2018.08.26-07.38.43:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdee3880, Size=376
+[2018.08.26-07.38.43:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe151de8, Size=4
+[2018.08.26-07.38.43:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe151e38, Size=4
+[2018.08.26-07.38.43:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdf1b580, Size=784
+[2018.08.26-07.38.43:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abde94400, Size=336
+[2018.08.26-07.38.43:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe151d50, Size=4
+[2018.08.26-07.38.43:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe00f5e0, Size=96
+[2018.08.26-07.38.43:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a9de10e98, Size=24
+[2018.08.26-07.38.43:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdee2e00, Size=376
+[2018.08.26-07.38.43:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdea1800, Size=152
+[2018.08.26-07.38.43:346][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abeea2938, Size=24
+[2018.08.26-07.38.43:346][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015ac1d0a380, Size=376
+[2018.08.26-07.38.43:346][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a98a36800, Size=376
+[2018.08.26-07.38.43:346][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015ac1d63820, Size=48
+[2018.08.26-07.38.43:346][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abdb8f880, Size=376
+[2018.08.26-07.38.43:348][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.26-07.38.43:411][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.749ms to complete.
+[2018.08.26-07.38.43:411][  0]LogFileHelpers: Loading map 'AngleGate' took 2.350
+[2018.08.26-07.38.43:541][  0]LogCollectionManager: Loaded 0 collections in 0.001498 seconds
+[2018.08.26-07.38.43:584][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/FirstPersonGames/ArenaShooter/Saved/Collections/' took 0.01s
+[2018.08.26-07.38.43:584][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/FirstPersonGames/ArenaShooter/Content/Developers/BazK/Collections/' took 0.01s
+[2018.08.26-07.38.43:584][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/FirstPersonGames/ArenaShooter/Content/Collections/' took 0.01s
+[2018.08.26-07.38.43:584][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.26-07.38.43:593][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2452 classes and 558 folders.
+[2018.08.26-07.38.43:600][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.26-07.38.43:646][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.26-07.38.43:652][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.26-07.38.43:742][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.26-07.38.43:744][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.26-07.38.43:750][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.26-07.38.43:850][  0]LogRenderer: Reallocating scene render targets to support 1064x592 Format 10 NumSamples 1 (Frame:1).
+[2018.08.26-07.38.44:031][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.26-07.38.44:031][  0]LogLoad: (Engine Initialization) Total time: 12.25 seconds
+[2018.08.26-07.38.44:031][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.26-07.38.44:041][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.26-07.38.44:063][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.26-07.38.44:134][  1]LogAssetRegistry: Asset discovery search completed in 7.8973 seconds
+[2018.08.26-07.38.44:136][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.26-07.38.44:136][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000070 seconds (updated 0 objects)
+[2018.08.26-07.38.46:690][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.38.51:913][297]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.26-07.38.51:926][297]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Game Models/export/StreetLightBanner.FBX)
+[2018.08.26-07.38.51:971][297]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.26-07.38.51:971][297]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.08.26-07.38.51:971][297]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.08.26-07.38.51:971][297]LogFbx: ItemName: Model, ItemCount : 2
+[2018.08.26-07.38.51:972][297]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.08.26-07.38.51:972][297]LogFbx: ItemName: Material, ItemCount : 2
+[2018.08.26-07.38.51:972][297]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.08.26-07.38.51:972][297]LogFbx: ItemName: Deformer, ItemCount : 2
+[2018.08.26-07.38.51:972][297]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.08.26-07.38.51:977][297]LogFbx: Loading FBX Scene from ../../../../../Game Models/export/StreetLightBanner.FBX
+[2018.08.26-07.38.52:022][297]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.26-07.38.53:250][297]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.26-07.38.53:320][297]LogFbx: Loading FBX Scene from ../../../../../Game Models/export/StreetLightBanner.FBX
+[2018.08.26-07.38.53:368][297]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.26-07.38.53:368][297]LogFbx: =================================================
+[2018.08.26-07.38.53:368][297]LogFbx: Dumping Node START [StreetLightBanner] 
+[2018.08.26-07.38.53:368][297]LogFbx: 	Total Deformer Count -1108930112.
+[2018.08.26-07.38.53:368][297]LogFbx: 		[Node 1]  (Type Skin).
+[2018.08.26-07.38.53:368][297]LogFbx: =================================================
+[2018.08.26-07.38.53:368][297]LogFbx: 	Attribute () Type (4).
+[2018.08.26-07.38.53:368][297]LogFbx: 		[Node Attribute Child 1] StreetLightBanner (Type Mesh).
+[2018.08.26-07.38.53:368][297]LogFbx: Dumping Node END [StreetLightBanner]
+[2018.08.26-07.38.53:368][297]LogFbx: =================================================
+[2018.08.26-07.38.53:368][297]LogFbx: Dumping Node START [StreetLightBanner] 
+[2018.08.26-07.38.53:368][297]LogFbx: 	Total Deformer Count -1108930112.
+[2018.08.26-07.38.53:368][297]LogFbx: 		[Node 1]  (Type Skin).
+[2018.08.26-07.38.53:368][297]LogFbx: =================================================
+[2018.08.26-07.38.53:368][297]LogFbx: 	Attribute () Type (4).
+[2018.08.26-07.38.53:368][297]LogFbx: 		[Node Attribute Child 1] StreetLightBanner (Type Mesh).
+[2018.08.26-07.38.53:368][297]LogFbx: Dumping Node END [StreetLightBanner]
+[2018.08.26-07.38.53:368][297]LogFbx: Valid bind pose for Pose (BIND_POSES) - StreetLightBanner
+[2018.08.26-07.38.53:369][297]LogMaterial: Warning: Material /Game/Models/Props/Mat_Pole.Mat_Pole needed to have new flag set bUsedWithSkeletalMesh !
+[2018.08.26-07.38.53:372][297]LogMaterial: Missing cached shader map for material Mat_Pole, compiling. 
+[2018.08.26-07.38.53:419][297]LogMaterial: Missing cached shader map for material Mat_Pole, compiling. 
+[2018.08.26-07.38.53:449][297]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.26-07.38.53:449][297]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.26-07.38.53:449][297]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.26-07.38.53:449][297]LogMaterial: Warning: Material /Game/Models/Props/Mat_Banner.Mat_Banner needed to have new flag set bUsedWithSkeletalMesh !
+[2018.08.26-07.38.53:478][297]LogMaterial: Missing cached shader map for material Mat_Banner, compiling. 
+[2018.08.26-07.38.53:499][297]LogMaterial: Missing cached shader map for material Mat_Banner, compiling. 
+[2018.08.26-07.38.53:536][297]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.26-07.38.53:607][297]LogSkeletalMesh: Section 0: 815 vertices, 1 active bones
+[2018.08.26-07.38.53:607][297]LogSkeletalMesh: Section 1: 1125 vertices, 1 active bones
+[2018.08.26-07.38.53:609][297]LogSkeletalMesh: Section 0: Material=0, 1044 triangles
+[2018.08.26-07.38.53:609][297]LogSkeletalMesh: Section 1: Material=1, 2112 triangles
+[2018.08.26-07.38.53:610][297]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.38.53:613][297]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.38.53:614][297]LogLinker: Can't find file '/Game/Models/Props/StreetLightBanner_Skeleton'
+[2018.08.26-07.38.53:614][297]LogLinker: Can't find file '/Game/Models/Props/StreetLightBanner_Skeleton'
+[2018.08.26-07.38.53:615][297]LogLinker: Can't find file '/Game/Models/Props/StreetLightBanner_PhysicsAsset'
+[2018.08.26-07.38.53:616][297]LogLinker: Can't find file '/Game/Models/Props/StreetLightBanner_PhysicsAsset'
+[2018.08.26-07.38.53:619][297]LogFbx: =================================================
+[2018.08.26-07.38.53:619][297]LogFbx: Dumping Node START [StreetLightBanner] 
+[2018.08.26-07.38.53:619][297]LogFbx: 	Total Deformer Count -1428506496.
+[2018.08.26-07.38.53:619][297]LogFbx: 		[Node 1]  (Type Skin).
+[2018.08.26-07.38.53:619][297]LogFbx: =================================================
+[2018.08.26-07.38.53:619][297]LogFbx: 	Attribute () Type (4).
+[2018.08.26-07.38.53:619][297]LogFbx: 		[Node Attribute Child 1] StreetLightBanner (Type Mesh).
+[2018.08.26-07.38.53:619][297]LogFbx: Dumping Node END [StreetLightBanner]
+[2018.08.26-07.38.53:619][297]LogFbx: =================================================
+[2018.08.26-07.38.53:619][297]LogFbx: Dumping Node START [StreetLightBanner] 
+[2018.08.26-07.38.53:619][297]LogFbx: 	Total Deformer Count -1428506496.
+[2018.08.26-07.38.53:619][297]LogFbx: 		[Node 1]  (Type Skin).
+[2018.08.26-07.38.53:619][297]LogFbx: =================================================
+[2018.08.26-07.38.53:619][297]LogFbx: 	Attribute () Type (4).
+[2018.08.26-07.38.53:620][297]LogFbx: 		[Node Attribute Child 1] StreetLightBanner (Type Mesh).
+[2018.08.26-07.38.53:620][297]LogFbx: Dumping Node END [StreetLightBanner]
+[2018.08.26-07.38.53:620][297]LogFbx: SortedLinks :(0) Bone001
+[2018.08.26-07.38.53:620][297]LogFbx: Parsing AnimStack StreetLightWithBanner
+[2018.08.26-07.38.53:620][297]LogLinker: Can't find file '/Game/Models/Props/StreetLightBanner_Anim'
+[2018.08.26-07.38.53:620][297]LogLinker: Can't find file '/Game/Models/Props/StreetLightBanner_Anim'
+[2018.08.26-07.38.53:627][297]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Props/StreetLightBanner_Anim.StreetLightBanner_Anim
+[2018.08.26-07.38.53:627][297]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.StreetLightBanner_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.26-07.38.53:662][297]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.38.53:665][297]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.38.53:697][297]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.26-07.38.55:532][306]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.08.26-07.38.56:665][427]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.08.26-07.38.58:167][428]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.08.26-07.38.58:257][429]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.26-07.39.00:224][430]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.26-07.39.00:224][430]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.26-07.39.04:577][431]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.26-07.39.04:577][431]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.26-07.39.04:577][431]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.26-07.39.14:966][449]LogSlate: Window 'Save Content' being destroyed
+[2018.08.26-07.39.15:022][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/Mat_Banner" FILE="../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/Mat_Banner.uasset" SILENT=true
+[2018.08.26-07.39.15:036][449]LogSavePackage: Save=11.74ms
+[2018.08.26-07.39.15:036][449]LogSavePackage: Moving '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Saved/Mat_BannerAC962BC64EC6C8257B5B1E8DB52DB2E1.tmp' to '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/Mat_Banner.uasset'
+[2018.08.26-07.39.15:039][449]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/Mat_Banner.uasset
+[2018.08.26-07.39.15:069][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/Mat_Pole" FILE="../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/Mat_Pole.uasset" SILENT=true
+[2018.08.26-07.39.15:081][449]LogSavePackage: Save=11.03ms
+[2018.08.26-07.39.15:082][449]LogSavePackage: Moving '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Saved/Mat_Pole0B72E9474140035C9AD80187FE8315A2.tmp' to '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/Mat_Pole.uasset'
+[2018.08.26-07.39.15:084][449]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/Mat_Pole.uasset
+[2018.08.26-07.39.15:107][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/StreetLightBanner" FILE="../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/StreetLightBanner.uasset" SILENT=true
+[2018.08.26-07.39.15:121][449]LogSavePackage: Save=12.34ms
+[2018.08.26-07.39.15:121][449]LogSavePackage: Moving '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Saved/StreetLightBanner429E723F4DFC641726CB168FA0512EC7.tmp' to '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/StreetLightBanner.uasset'
+[2018.08.26-07.39.15:124][449]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/StreetLightBanner.uasset
+[2018.08.26-07.39.15:145][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/StreetLightBanner_Anim" FILE="../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/StreetLightBanner_Anim.uasset" SILENT=true
+[2018.08.26-07.39.15:157][449]LogSavePackage: Save=10.61ms
+[2018.08.26-07.39.15:158][449]LogSavePackage: Moving '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Saved/StreetLightBanner_AnimB56C92124E1766C55D2CC290BA38C2A8.tmp' to '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/StreetLightBanner_Anim.uasset'
+[2018.08.26-07.39.15:160][449]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/StreetLightBanner_Anim.uasset
+[2018.08.26-07.39.15:202][449]LogSavePackage: Save=10.11ms
+[2018.08.26-07.39.15:202][449]LogSavePackage: Moving '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Saved/StreetLightBanner_PhysicsAsset72D0FA4E4F7624D40FABC9A2D088BB93.tmp' to '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/StreetLightBanner_PhysicsAsset.uasset'
+[2018.08.26-07.39.15:205][449]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/StreetLightBanner_PhysicsAsset.uasset
+[2018.08.26-07.39.15:211][449]LogSavePackage: Save=1.30ms
+[2018.08.26-07.39.15:211][449]LogSavePackage: Moving '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Saved/StreetLightBanner_SkeletonFD58FB084B254B1C7C31BA87749EA810.tmp' to '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/StreetLightBanner_Skeleton.uasset'
+[2018.08.26-07.39.15:213][449]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/StreetLightBanner_Skeleton.uasset
+[2018.08.26-07.39.16:873][579]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.26-07.39.17:120][579]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.26-07.39.17:123][579]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.08.26-07.39.17:181][579]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.08.26-07.39.17:455][579]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.08.26-07.39.17:517][579]LogRenderer: Reallocating scene render targets to support 1064x888 Format 10 NumSamples 1 (Frame:1).
+[2018.08.26-07.39.20:766][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-07.39.24:846][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.39.31:830][490]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.39.31:833][490]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.39.32:940][575]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.39.32:942][575]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.39.35:948][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.39.41:487][  8]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.39.41:490][  8]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.39.42:875][ 63]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.39.42:878][ 63]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.39.47:419][178]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.39.47:422][178]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.39.47:798][198]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.39.47:801][198]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.39.52:109][488]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.39.52:112][488]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.39.55:215][644]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.39.55:218][644]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.40.00:277][849]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.40.00:280][849]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.40.04:719][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.40.04:797][102]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.40.04:800][102]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.40.10:715][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.40.13:440][572]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.40.13:442][572]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.40.16:003][663]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.40.16:006][663]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.40.19:236][794]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.40.19:239][794]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.40.20:029][833]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.40.20:032][833]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.40.29:578][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.40.29:679][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/StreetLightBanner" FILE="../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/StreetLightBanner.uasset" SILENT=true
+[2018.08.26-07.40.29:867][496]LogSavePackage: Save=181.90ms
+[2018.08.26-07.40.29:867][496]LogSavePackage: Moving '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Saved/StreetLightBanner477E38D64444E7E4C53F54BCB798BEFA.tmp' to '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/StreetLightBanner.uasset'
+[2018.08.26-07.40.29:870][496]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/StreetLightBanner.uasset
+[2018.08.26-07.40.44:697][301]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.40.44:700][301]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.40.46:026][400]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.40.46:029][400]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.40.46:771][454]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.40.46:774][454]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.40.52:561][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.40.53:281][914]LogSlate: Window 'StreetLightBanner*' being destroyed
+[2018.08.26-07.40.56:401][220]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2018.08.26-07.40.56:416][220]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.08.26-07.40.56:679][220]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.26-07.40.56:758][221]LogRenderer: Reallocating scene render targets to support 1144x888 Format 10 NumSamples 1 (Frame:1).
+[2018.08.26-07.41.47:367][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.41.57:185][975]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.41.57:188][975]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.41.59:337][ 75]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.41.59:340][ 75]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.42.06:228][602]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.42.06:231][602]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.42.11:849][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.42.15:371][519]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.42.15:374][519]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.42.16:106][603]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.42.16:109][603]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.42.20:755][778]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.42.20:758][778]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.42.23:329][893]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.42.23:332][893]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.42.25:637][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.42.25:708][ 90]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.42.25:711][ 90]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.42.37:124][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.42.45:123][794]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.42.45:126][794]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.42.49:194][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.43.07:584][811]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.43.07:587][811]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.43.09:331][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.43.12:370][249]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.43.12:373][249]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.43.13:335][335]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.43.13:338][335]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.43.14:818][464]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.43.14:821][464]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.43.16:905][620]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.43.16:908][620]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.43.25:977][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.43.51:883][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.43.59:593][607]Cmd: DELETE
+[2018.08.26-07.43.59:593][607]Cmd: ACTOR DELETE
+[2018.08.26-07.43.59:690][607]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.08.26-07.43.59:705][607]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2018.08.26-07.44.01:045][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.44.17:931][170]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2018.08.26-07.44.21:140][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/StreetLightBanner" FILE="../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/StreetLightBanner.uasset" SILENT=true
+[2018.08.26-07.44.21:321][508]LogSavePackage: Save=175.58ms
+[2018.08.26-07.44.21:321][508]LogSavePackage: Moving '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Saved/StreetLightBanner23144B6244062002CC273D981AA34BDC.tmp' to '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/StreetLightBanner.uasset'
+[2018.08.26-07.44.21:324][508]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/Models/Props/StreetLightBanner.uasset
+[2018.08.26-07.44.56:523][282]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.44.56:526][282]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.44.57:131][353]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.44.57:134][353]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.45.06:354][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.45.23:600][479]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.45.23:603][479]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.45.24:941][585]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.45.24:944][585]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.45.31:833][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.45.35:407][397]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.45.35:410][397]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.45.37:367][490]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.45.37:370][490]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.45.39:999][728]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.45.40:002][728]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.45.42:998][880]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.45.43:001][880]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.45.46:995][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.47.55:635][412]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.47.55:639][412]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.47.57:670][618]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.47.57:673][618]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.47.57:674][618]LogActorComponent: ReregisterComponent: (/Game/Maps/AngleGate.AngleGate:PersistentLevel.StreetLightBanner_2.SkeletalMeshComponent0) Not currently registered. Aborting.
+[2018.08.26-07.47.57:674][618]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_6:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_0) Not currently registered. Aborting.
+[2018.08.26-07.48.00:629][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.48.04:330][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.48.04:959][317]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-07.48.11:839][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.48.15:685][392]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.48.15:688][392]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.48.16:427][453]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.48.16:430][453]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.48.17:210][508]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.48.17:213][508]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.48.17:937][579]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.48.17:940][579]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.48.18:757][675]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.48.18:760][675]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.48.19:684][781]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.48.19:687][781]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.48.22:425][959]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.48.22:428][959]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.48.24:517][156]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.48.24:520][156]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.48.25:137][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.48.25:581][269]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.48.25:584][269]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.48.25:585][269]LogActorComponent: ReregisterComponent: (/Game/Maps/AngleGate.AngleGate:PersistentLevel.StreetLightBanner_2.SkeletalMeshComponent0) Not currently registered. Aborting.
+[2018.08.26-07.48.25:586][269]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_6:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_0) Not currently registered. Aborting.
+[2018.08.26-07.48.32:111][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.48.37:849][603]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.48.37:852][603]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.48.50:273][957]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_2.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.08.26-07.48.50:318][957]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.Actor_2.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2018.08.26-07.48.56:739][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.48.59:795][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.49.01:432][945]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-07.49.16:230][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.49.17:832][804]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_3.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2018.08.26-07.49.21:766][192]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.08.26-07.49.21:809][192]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.08.26-07.49.22:215][192]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.08.26-07.49.24:909][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.49.25:535][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.49.25:989][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.49.26:693][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.49.27:052][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.49.27:168][597]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_5.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.08.26-07.49.27:207][597]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.Actor_5.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2018.08.26-07.49.29:518][755]LogSlate: Window 'StreetLightBanner_Anim' being destroyed
+[2018.08.26-07.49.34:921][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.49.46:147][204]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.49.46:150][204]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.49.53:490][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.50.03:123][956]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.50.03:126][956]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.50.03:127][956]LogActorComponent: ReregisterComponent: (/Game/Maps/AngleGate.AngleGate:PersistentLevel.StreetLightBanner_2.SkeletalMeshComponent0) Not currently registered. Aborting.
+[2018.08.26-07.50.03:127][956]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Not currently registered. Aborting.
+[2018.08.26-07.50.03:127][956]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Not currently registered. Aborting.
+[2018.08.26-07.50.03:127][956]LogActorComponent: ReregisterComponent: (/Engine/Transient.DebugSkelMeshComponent_4) Not currently registered. Aborting.
+[2018.08.26-07.50.03:127][956]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_12:PersistentLevel.Actor_5.DebugSkelMeshComponent_5) Not currently registered. Aborting.
+[2018.08.26-07.50.03:127][956]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_6:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_0) Not currently registered. Aborting.
+[2018.08.26-07.50.05:496][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.50.05:551][196]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_6.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.08.26-07.50.05:594][196]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.Actor_6.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2018.08.26-07.50.11:912][645]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-07.50.12:078][658]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-07.50.12:685][708]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-07.50.14:473][822]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-07.50.16:184][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.50.16:265][963]LogSlate: Window 'StreetLightBanner_Skeleton*' being destroyed
+[2018.08.26-07.50.19:664][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.50.19:701][281]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.26-07.50.54:073][847]LogSavePackage: Save=1414.51ms
+[2018.08.26-07.50.54:074][847]LogSavePackage: Moving '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Saved/AngleGate_Auto11E5BA7174C1779784F9B7A82A2256093.tmp' to '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Saved/Autosaves/Game/Maps/AngleGate_Auto1.umap'
+[2018.08.26-07.50.54:076][847]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Saved/Autosaves/Game/Maps/AngleGate_Auto1.umap
+[2018.08.26-07.50.54:079][847]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/AngleGate' took 1.904
+[2018.08.26-07.50.54:079][847]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.904
+[2018.08.26-07.50.54:083][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props/StreetLightBanner] ([1] browsable assets)...
+[2018.08.26-07.50.54:098][847]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Models/Props/StreetLightBanner.StreetLightBanner]
+[2018.08.26-07.50.54:098][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props/StreetLightBanner]
+[2018.08.26-07.50.54:361][847]LogSavePackage: Save=258.02ms
+[2018.08.26-07.50.54:361][847]LogSavePackage: Moving '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Saved/StreetLightBanner_Auto1136363CD45052EBB64712B8C80FC8EC4.tmp' to '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Saved/Autosaves/Game/Models/Props/StreetLightBanner_Auto1.uasset'
+[2018.08.26-07.50.54:363][847]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Saved/Autosaves/Game/Models/Props/StreetLightBanner_Auto1.uasset
+[2018.08.26-07.50.54:364][847]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props/StreetLightBanner_Skeleton] ([1] browsable assets)...
+[2018.08.26-07.50.54:364][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props/StreetLightBanner_Skeleton]
+[2018.08.26-07.50.54:370][847]LogSavePackage: Save=1.41ms
+[2018.08.26-07.50.54:370][847]LogSavePackage: Moving '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Saved/StreetLightBanner_Skeleton_Auto161EA75F84F78FC19650BADBB430C8DA7.tmp' to '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Saved/Autosaves/Game/Models/Props/StreetLightBanner_Skeleton_Auto1.uasset'
+[2018.08.26-07.50.54:372][847]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Saved/Autosaves/Game/Models/Props/StreetLightBanner_Skeleton_Auto1.uasset
+[2018.08.26-07.50.54:372][847]LogFileHelpers: Auto-saving content packages took 0.292
+[2018.08.26-07.52.51:970][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.53.02:265][301]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-07.53.03:065][386]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.53.03:069][386]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.53.03:070][386]LogMaterial: Warning: Material /Game/Models/Props/Mat_Banner.Mat_Banner needed to have new flag set bUsedWithClothing !
+[2018.08.26-07.53.03:072][386]LogMaterial: Missing cached shader map for material Mat_Banner, compiling. 
+[2018.08.26-07.53.03:116][386]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.08.26-07.53.03:116][386]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.08.26-07.53.03:116][386]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.08.26-07.53.12:709][395]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.08.26-07.53.12:709][395]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.08.26-07.53.12:709][395]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.08.26-07.53.12:710][395]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.08.26-07.53.12:710][395]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.08.26-07.53.12:710][395]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.26-07.53.12:710][395]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.26-07.53.23:575][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.53.37:443][ 43]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.53.37:447][ 43]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.53.39:114][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.53.41:529][363]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.53.41:532][363]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.53.42:610][469]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.53.42:613][469]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.53.48:136][926]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.53.48:139][926]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.53.53:961][105]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.53.53:965][105]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.53.55:344][224]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.53.55:347][224]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.54.02:543][996]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.54.02:546][996]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.54.06:034][355]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.54.06:037][355]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.54.08:846][648]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.54.08:850][648]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.54.10:751][866]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.54.10:755][866]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.54.11:593][959]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.54.11:597][959]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.54.26:264][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.54.26:329][378]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.54.26:332][378]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.54.26:345][378]LogActorComponent: ReregisterComponent: (/Game/Maps/AngleGate.AngleGate:PersistentLevel.StreetLightBanner_2.SkeletalMeshComponent0) Not currently registered. Aborting.
+[2018.08.26-07.54.39:747][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.54.44:527][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.55.03:624][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.55.07:789][305]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.55.07:793][305]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.55.13:642][938]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.55.13:645][938]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.55.15:416][134]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.55.15:420][134]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.55.23:925][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.55.24:931][128]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.55.24:934][128]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.55.26:589][318]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.55.26:592][318]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.55.28:093][491]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.55.28:097][491]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.55.28:505][535]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.55.28:508][535]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.55.35:808][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.55.35:872][315]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.55.35:876][315]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.55.35:882][315]LogActorComponent: ReregisterComponent: (/Game/Maps/AngleGate.AngleGate:PersistentLevel.StreetLightBanner_2.SkeletalMeshComponent0) Not currently registered. Aborting.
+[2018.08.26-07.55.38:973][644]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-07.55.40:020][767]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.55.40:023][767]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.55.40:024][767]LogActorComponent: ReregisterComponent: (/Game/Maps/AngleGate.AngleGate:PersistentLevel.StreetLightBanner_2.SkeletalMeshComponent0) Not currently registered. Aborting.
+[2018.08.26-07.55.42:637][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-07.55.44:102][160]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.55.44:105][160]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.56.36:373][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.56.37:139][791]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.56.37:142][791]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.56.37:142][791]LogActorComponent: ReregisterComponent: (/Game/Maps/AngleGate.AngleGate:PersistentLevel.StreetLightBanner_2.SkeletalMeshComponent0) Not currently registered. Aborting.
+[2018.08.26-07.56.37:143][791]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0) Not currently registered. Aborting.
+[2018.08.26-07.56.37:143][791]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_7:PersistentLevel.Actor_2.DebugSkelMeshComponent_1) Not currently registered. Aborting.
+[2018.08.26-07.56.37:143][791]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_8:PersistentLevel.Actor_3.PhysicsAssetEditorSkeletalMeshComponent_1) Not currently registered. Aborting.
+[2018.08.26-07.56.37:143][791]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.56.37:146][791]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.56.44:497][378]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.26-07.56.45:078][378]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.56.45:081][378]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.56.45:082][378]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.56.45:085][378]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.56.45:087][378]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.56.45:090][378]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.56.45:092][378]LogSkeletalMesh: Building Skeletal Mesh StreetLightBanner...
+[2018.08.26-07.56.45:094][378]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Props/StreetLightBanner.StreetLightBanner
+[2018.08.26-07.56.46:971][378]LogSlate: Window 'Message' being destroyed
+[2018.08.26-07.56.47:407][378]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:407][378]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:408][378]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:408][378]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:409][378]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:409][378]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:409][378]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:409][378]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:419][379]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:432][380]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:530][382]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:558][383]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:566][384]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:589][385]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:637][386]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:677][387]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:688][388]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:699][389]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:711][390]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:722][391]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:734][392]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:745][393]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:758][394]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:769][395]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:780][396]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:793][397]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:803][398]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:815][399]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:827][400]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:838][401]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:848][402]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:860][403]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:871][404]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:881][405]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:891][406]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:902][407]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:913][408]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:924][409]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:935][410]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:945][411]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:955][412]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:966][413]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:977][414]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.47:990][415]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:000][416]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:009][417]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:022][418]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:031][419]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:041][420]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:051][421]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:062][422]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:073][423]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:082][424]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:094][425]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:104][426]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:114][427]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:124][428]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:135][429]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:145][430]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:156][431]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:167][432]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:177][433]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:187][434]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:198][435]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:208][436]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:218][437]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:231][438]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:240][439]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:250][440]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:261][441]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:272][442]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:281][443]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:291][444]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:302][445]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:313][446]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:323][447]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:334][448]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:344][449]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:356][450]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:366][451]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:376][452]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:387][453]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:397][454]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:407][455]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:418][456]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:429][457]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:440][458]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:450][459]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:461][460]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:551][470]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:559][471]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:568][472]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:576][473]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:586][474]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:594][475]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:602][476]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:610][477]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:620][478]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.48:629][479]LogAnimation: Warning: SkeletalMesh StreetLightBanner has no skeleton. This needs to fixed before an animation can be set
+[2018.08.26-07.56.49:856][480]LogSlate: Window 'Message' being destroyed
+[2018.08.26-07.56.49:887][480]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_7.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2018.08.26-07.56.53:575][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.56.57:209][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.56.57:521][158]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_8.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.08.26-07.56.59:800][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.57.03:072][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.57.03:549][527]LogSlate: Window 'StreetLightBanner_Skeleton*' being destroyed
+[2018.08.26-07.57.07:989][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.57.09:484][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-07.57.13:208][422]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-07.57.15:195][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-07.57.16:879][624]LogSlate: Window 'Save Content' being destroyed
+[2018.08.26-07.57.17:263][624]LogSlate: Window 'ArenaShooter - Unreal Editor' being destroyed
+[2018.08.26-07.57.17:459][625]Cmd: QUIT_EDITOR
+[2018.08.26-07.57.17:492][625]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.26-07.57.17:503][625]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.08.26-07.57.17:503][625]LogExit: Preparing to exit.
+[2018.08.26-07.57.18:479][625]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/FirstPersonGames/ArenaShooter/Content/' was aborted.
+[2018.08.26-07.57.18:511][625]LogExit: Editor shut down
+[2018.08.26-07.57.18:512][625]LogExit: Transaction tracking system shut down
+[2018.08.26-07.57.18:513][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015ab701b5e0, Size=48
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe2f2a40, Size=168
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe27fd00, Size=376
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe24ee00, Size=728
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe30e480, Size=576
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe1e5c00, Size=168
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe26f550, Size=4
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe19fb00, Size=160
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abf172b00, Size=784
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abf13a900, Size=240
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe185f00, Size=728
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe185000, Size=656
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe184a00, Size=728
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe2363c8, Size=24
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abf14df00, Size=376
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe26ece0, Size=8
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abf084f00, Size=1152
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe26ea48, Size=4
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe235b28, Size=24
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abf04bd00, Size=376
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe235b40, Size=24
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abf04b880, Size=376
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abf03f200, Size=856
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe235870, Size=24
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abf04b400, Size=376
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe235828, Size=24
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abf04ac80, Size=376
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abf0bc280, Size=96
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe2356f0, Size=24
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abf04a500, Size=376
+[2018.08.26-07.57.18:514][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abeffa7f0, Size=112
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abf099380, Size=128
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abf00af80, Size=96
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe352240, Size=208
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abefac400, Size=736
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abeefe630, Size=112
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abf008ac0, Size=96
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abef2e180, Size=128
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe340700, Size=12
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abefb31a0, Size=40
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abee6b510, Size=112
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abef2c280, Size=120
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abee96820, Size=32
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abee8c4a0, Size=152
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abee2fce0, Size=160
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe351c20, Size=204
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abee19d00, Size=1152
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe2cd6c0, Size=288
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015ac1dcab00, Size=1152
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abedca800, Size=336
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abe26c410, Size=4
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015abeea28a8, Size=24
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015ac1d09f00, Size=376
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a98a36500, Size=376
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015ac1d63cd0, Size=48
+[2018.08.26-07.57.18:515][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015a98abba00, Size=376
+[2018.08.26-07.57.18:734][625]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.08.26-07.57.18:734][625]LogDirectoryWatcher: A directory notification for '../../../../../UnrealProjects/FirstPersonGames/ArenaShooter/Content/' was aborted.
+[2018.08.26-07.57.18:734][625]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.08.26-07.57.18:734][625]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.08.26-07.57.18:734][625]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.08.26-07.57.18:734][625]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.08.26-07.57.18:734][625]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.08.26-07.57.18:734][625]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.08.26-07.57.18:807][625]LogExit: Object subsystem successfully closed.
+[2018.08.26-07.57.18:832][625]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.08.26-07.57.18:837][625]LogD3D11RHI: Shutdown
+[2018.08.26-07.57.18:837][625]LogD3D11RHI: CleanupD3DDevice
+[2018.08.26-07.57.18:840][625]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.26-07.57.18:849][625]LogModuleManager: Shutting down and abandoning module AnimationEditor (584)
+[2018.08.26-07.57.18:849][625]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (582)
+[2018.08.26-07.57.18:849][625]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (580)
+[2018.08.26-07.57.18:849][625]LogModuleManager: Shutting down and abandoning module PinnedCommandList (578)
+[2018.08.26-07.57.18:849][625]LogModuleManager: Shutting down and abandoning module SkeletonEditor (576)
+[2018.08.26-07.57.18:849][625]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.08.26-07.57.18:849][625]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.08.26-07.57.18:849][625]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.08.26-07.57.18:849][625]LogDirectoryWatcher: A directory notification for 'D:/Unreal Engine/UE_4.19/FeaturePacks/' was aborted.
+[2018.08.26-07.57.18:850][625]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.08.26-07.57.18:850][625]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.08.26-07.57.18:850][625]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.08.26-07.57.18:850][625]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/FirstPersonGames/ArenaShooter/Content/Collections/' was aborted.
+[2018.08.26-07.57.18:850][625]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/FirstPersonGames/ArenaShooter/Content/Developers/BazK/Collections/' was aborted.
+[2018.08.26-07.57.18:850][625]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/FirstPersonGames/ArenaShooter/Saved/Collections/' was aborted.
+[2018.08.26-07.57.18:850][625]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.08.26-07.57.18:850][625]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.08.26-07.57.18:851][625]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.08.26-07.57.18:852][625]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.08.26-07.57.18:852][625]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.08.26-07.57.18:852][625]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.08.26-07.57.18:852][625]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.08.26-07.57.18:852][625]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.08.26-07.57.18:852][625]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.08.26-07.57.19:099][625]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.08.26-07.57.19:099][625]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.08.26-07.57.19:099][625]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.08.26-07.57.19:099][625]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.08.26-07.57.19:100][625]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.08.26-07.57.19:100][625]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.08.26-07.57.19:100][625]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.08.26-07.57.19:100][625]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.08.26-07.57.19:100][625]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.08.26-07.57.19:100][625]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.08.26-07.57.19:100][625]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.08.26-07.57.19:100][625]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.08.26-07.57.19:100][625]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.08.26-07.57.19:100][625]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.08.26-07.57.19:100][625]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.08.26-07.57.19:100][625]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.08.26-07.57.19:100][625]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.08.26-07.57.19:100][625]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.08.26-07.57.19:100][625]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.08.26-07.57.19:100][625]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.08.26-07.57.19:100][625]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.08.26-07.57.19:154][625]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.08.26-07.57.19:154][625]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.08.26-07.57.19:154][625]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.08.26-07.57.19:154][625]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.08.26-07.57.19:154][625]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.08.26-07.57.19:154][625]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.08.26-07.57.19:154][625]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.08.26-07.57.19:154][625]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.08.26-07.57.19:154][625]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.08.26-07.57.19:154][625]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.08.26-07.57.19:156][625]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.08.26-07.57.19:156][625]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.08.26-07.57.19:156][625]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.08.26-07.57.19:156][625]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.08.26-07.57.19:156][625]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.08.26-07.57.19:156][625]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.08.26-07.57.19:156][625]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.08.26-07.57.19:156][625]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.08.26-07.57.19:156][625]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.08.26-07.57.19:156][625]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.08.26-07.57.19:156][625]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.08.26-07.57.19:156][625]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.08.26-07.57.19:156][625]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.08.26-07.57.19:156][625]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.08.26-07.57.19:156][625]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.08.26-07.57.19:156][625]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.08.26-07.57.19:156][625]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.08.26-07.57.19:156][625]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.08.26-07.57.19:157][625]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.08.26-07.57.19:157][625]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.08.26-07.57.19:157][625]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.08.26-07.57.19:370][625]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.08.26-07.57.19:370][625]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.08.26-07.57.19:370][625]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.08.26-07.57.19:370][625]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.08.26-07.57.19:370][625]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.08.26-07.57.19:370][625]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.08.26-07.57.19:370][625]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.08.26-07.57.19:370][625]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.08.26-07.57.19:370][625]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.08.26-07.57.19:370][625]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.08.26-07.57.19:370][625]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.08.26-07.57.19:371][625]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.08.26-07.57.19:371][625]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.08.26-07.57.19:371][625]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.08.26-07.57.19:371][625]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.08.26-07.57.19:371][625]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.08.26-07.57.19:371][625]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.08.26-07.57.19:374][625]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.08.26-07.57.19:375][625]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.08.26-07.57.19:375][625]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.08.26-07.57.19:375][625]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.08.26-07.57.19:375][625]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.08.26-07.57.19:375][625]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.08.26-07.57.19:375][625]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.08.26-07.57.19:476][625]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.08.26-07.57.19:576][625]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.08.26-07.57.19:576][625]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.08.26-07.57.19:576][625]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.08.26-07.57.19:576][625]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.08.26-07.57.19:576][625]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.08.26-07.57.19:576][625]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.08.26-07.57.19:576][625]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.08.26-07.57.19:577][625]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.08.26-07.57.19:577][625]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.08.26-07.57.19:577][625]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.08.26-07.57.19:577][625]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.08.26-07.57.19:578][625]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.08.26-07.57.19:578][625]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.08.26-07.57.19:578][625]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.08.26-07.57.19:578][625]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.08.26-07.57.20:131][625]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.08.26-07.57.20:131][625]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.08.26-07.57.20:131][625]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.08.26-07.57.20:134][625]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.08.26-07.57.20:140][625]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.08.26-07.57.20:140][625]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.08.26-07.57.20:140][625]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.08.26-07.57.20:140][625]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.08.26-07.57.20:140][625]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.08.26-07.57.20:140][625]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.08.26-07.57.20:140][625]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.08.26-07.57.20:140][625]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.08.26-07.57.20:140][625]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.08.26-07.57.20:140][625]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.08.26-07.57.20:140][625]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.08.26-07.57.20:140][625]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.08.26-07.57.20:140][625]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.08.26-07.57.20:140][625]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.08.26-07.57.20:141][625]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.08.26-07.57.20:141][625]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.08.26-07.57.20:141][625]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.08.26-07.57.20:141][625]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.08.26-07.57.20:141][625]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.08.26-07.57.20:141][625]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.08.26-07.57.20:142][625]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.08.26-07.57.20:142][625]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.08.26-07.57.20:142][625]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.08.26-07.57.20:142][625]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.08.26-07.57.20:142][625]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.08.26-07.57.20:142][625]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.08.26-07.57.20:142][625]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.08.26-07.57.20:142][625]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.08.26-07.57.20:142][625]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.08.26-07.57.20:142][625]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.08.26-07.57.20:142][625]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.08.26-07.57.20:142][625]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.08.26-07.57.20:143][625]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.08.26-07.57.20:143][625]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.08.26-07.57.20:143][625]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.08.26-07.57.20:143][625]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.08.26-07.57.20:143][625]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.08.26-07.57.20:215][625]LogDerivedDataCache: Shutdown
+[2018.08.26-07.57.20:215][625]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.08.26-07.57.20:215][625]LogXGEController: Cleaning working directory: C:/Users/Baz_K/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.08.26-07.57.20:215][625]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.08.26-07.57.20:215][625]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.08.26-07.57.20:215][625]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.08.26-07.57.20:215][625]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.08.26-07.57.20:215][625]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.08.26-07.57.20:216][625]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.08.26-07.57.20:217][625]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.08.26-07.57.20:217][625]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.08.26-07.57.20:217][625]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.08.26-07.57.20:217][625]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.08.26-07.57.20:217][625]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.08.26-07.57.20:217][625]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.08.26-07.57.20:217][625]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.08.26-07.57.20:217][625]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.08.26-07.57.20:217][625]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.08.26-07.57.20:217][625]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.08.26-07.57.20:217][625]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.08.26-07.57.20:217][625]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63527062-410C-10CB-65D1-FA85CCBD4D7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=0482cab24b5e2fc0ed88fbbd4223c6f0%7C8841b843601b4a5f804890b8b1bd0fe4%7C467f07ab-6986-4d6c-9e53-54461803a1bd&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.08.26-07.57.20:220][625]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.08.26-07.57.20:221][625]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.26-07.57.20:221][625]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.26-07.57.20:221][625]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.26-07.57.20:221][625]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.26-07.57.20:221][625]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.26-07.57.20:221][625]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.26-07.57.20:221][625]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.26-07.57.20:222][625]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.26-07.57.20:223][625]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.26-07.57.20:223][625]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.26-07.57.20:223][625]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.26-07.57.20:223][625]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.26-07.57.20:223][625]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.26-07.57.20:223][625]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.26-07.57.20:223][625]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.26-07.57.20:223][625]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.26-07.57.20:223][625]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.26-07.57.20:223][625]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.26-07.57.20:227][625]LogExit: Exiting.
+[2018.08.26-07.57.20:229][625]Log file closed, 08/26/18 08:57:20
